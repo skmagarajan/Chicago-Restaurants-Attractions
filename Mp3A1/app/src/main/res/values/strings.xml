@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mp3A1</string>
+
+    <string name="att">Click Button for check attractions</string>
+    <string name="res">Click Button for check Restaurants</string>
+    <string name="att_b">Attractions</string>
+    <string name="res_b">Restaurants</string>
+    <string name="per">Mp3A2</string>
+
+</resources>

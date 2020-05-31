@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mp3A2</string>
+    <string name="Attractions">Attractions</string>
+    <string name="Restaurants">Restaurants</string>
+
+    <string-array name="list_items">
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>The Museum of Science and Industry</item>
+        <item>The Art Institute</item>
+        <item>The TILT</item>
+    </string-array>
+
+    <string-array name="url_items">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://360chicago.com/tilt/</item>
+    </string-array>
+
+    <string-array name="res_items">
+        <item>Girl and the goat</item>
+        <item>Capital Grille</item>
+        <item>Peninsula</item>
+        <item>Picollo Sogno</item>
+        <item>STK</item>
+    </string-array>
+
+    <string-array name="res_url_items">
+        <item>https://girlandthegoat.com/</item>
+        <item>https://www.thecapitalgrille.com/</item>
+        <item>https://www.peninsula.com/</item>
+        <item>https://www.piccolosognorestaurant.com/</item>
+        <item>https://togrp.com/</item>
+    </string-array>
+
+</resources>
